@@ -4,7 +4,7 @@
 ---
 #### 更新内容：*Update contents:*
 
-2022/2/23─────────version1.0 [click me](./version-1.0)
+2022/2/23─────────version1.0 [\[click me\]](./version-1.0)
 
 ---
 #### 提示：*Tips:*

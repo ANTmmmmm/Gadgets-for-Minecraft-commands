@@ -4,7 +4,7 @@
 ---
 #### 更新内容：*Update contents:*
 
-2022/2/23─────────[版本1.0](./version-1.0)第一个版本 *the first version*
+2022/2/23─────────version1.0 [click me](./version-1.0)
 
 ---
 #### 提示：*Tips:*

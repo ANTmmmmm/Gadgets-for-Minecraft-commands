@@ -8,4 +8,4 @@
 
 *This is a small tool that automatically generates Raw Json Text based on your selections and inputs. No more typing characters one by one!*
 
-*>Currently only supports simple Simplified Chinese*
+>*Currently only supports simple Simplified Chinese*

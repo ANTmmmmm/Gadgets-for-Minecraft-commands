@@ -1,5 +1,5 @@
 # **原始JSON文本生成器 1.0版本** 
-***Raw JSON Text editor Version 1.0***
+***RJT(Raw JSON Text) editor Version 1.0***
 
 ---
 #### 更新内容：*Update contents:*

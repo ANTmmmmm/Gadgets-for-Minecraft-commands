@@ -22,4 +22,7 @@
 >*This version only supports Simplified Chinese*
 ---
 编辑时间：*edit time:*
-+8 time zone 23 February 2022 18:05
+
++8时区 2022年2月23日 18:05
+
+*+8 time zone 23 February 2022 18:05*

@@ -17,3 +17,7 @@
 +8时区 2022年2月23日 18:20
 
 *+8 time zone 23 February 2022 18:20*
+
+©2022 原创软件 保留一切权利
+
+*©2022 Original Software All Rights Reserved*

@@ -11,6 +11,10 @@
 >现在仅支持简体中文
 >
 >*This version only supports Simplified Chinese now.*
+
+>由于打包的可执行文件过大，将链接外部网站进行下载。
+>
+>*Because the packaged executable file is too large, it will link to an external website for download.*
 ---
 编辑时间：*edit time:*
 
